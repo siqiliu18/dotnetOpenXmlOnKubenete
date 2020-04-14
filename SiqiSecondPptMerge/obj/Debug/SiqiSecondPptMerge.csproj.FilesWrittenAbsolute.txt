@@ -1,0 +1,6 @@
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.pdb
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.exe
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.exe
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.pdb
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/DocumentFormat.OpenXml.dll
