@@ -1,8 +1,8 @@
 # dotnetOpenXmlOnKubenete
 
 Simply run on a terminal:
->> docker build -f Dockerfile -t siqi-ppt:1.0 . 
->> docker run siqi-ppt:1.0 
+docker build -f Dockerfile -t siqi-ppt:1.0 . 
+docker run siqi-ppt:1.0 
 
 Output:
 total 108 
