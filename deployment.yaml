@@ -1,0 +1,10 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ppt-merge-service
+spec:
+  containers:
+  - name: ppt-merge-service
+    image: ppt-merge-service:1.0
+    port:
+      - containerPort:6400
