@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{59E4A10C-B05C-4B94-B7F1-09C6A73779E5}|Default">
-  <MonoDevelop.Ide.ItemProperties.SiqiSecondPptMerge FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SiqiSecondPptMerge PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SiqiSecondPptMerge/Program.cs">
     <Files>
-      <File FileName="SiqiSecondPptMerge/Program.cs" Line="1" Column="1" />
+      <File FileName="SiqiSecondPptMerge/Program.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SiqiSecondPptMerge" expanded="True">
             <Node name="SiqiSecondPptMerge" expanded="True">
+              <Node name="References" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
