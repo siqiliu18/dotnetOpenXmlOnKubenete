@@ -1,0 +1,9 @@
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Release/SiqiSecondPptMerge.exe.config
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Release/SiqiSecondPptMerge.exe
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Release/DocumentFormat.OpenXml.dll
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Release/DocumentFormat.OpenXml.xml
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Release/SiqiSecondPptMerge.csprojAssemblyReference.cache
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Release/SiqiSecondPptMerge.exe.config
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Release/SiqiSecondPptMerge.csproj.CoreCompileInputs.cache
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Release/SiqiSecondPptMerge.csproj.CopyComplete
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Release/SiqiSecondPptMerge.exe
