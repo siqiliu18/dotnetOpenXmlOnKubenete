@@ -13,7 +13,8 @@ namespace SiqiSecondPptMerge
     {
         public static void Main(string[] args)
         {
-            OpenXmlHelper openXmlProcessor = new OpenXmlHelper(@"../../../Data");
+            string dataPath = @"../../../Data";
+            OpenXmlHelper openXmlProcessor = new OpenXmlHelper(dataPath);
 
             string TemplatePath = openXmlProcessor.GetAbsolutePath("/template.pptx");
             string OutputPath = openXmlProcessor.GetAbsolutePath("/output.pptx");
@@ -75,6 +76,10 @@ namespace SiqiSecondPptMerge
                 // Step 5: Save the presentation
                 presPart.Presentation.Save();
             }
+
+            // set watcher to watch output ppt changes
+            Watcher watcher = new Watcher(dataPath);
+            watcher.Run();
         }
     }
 }

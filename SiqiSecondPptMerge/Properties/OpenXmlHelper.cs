@@ -10,10 +10,7 @@ namespace SiqiSecondPptMerge.Properties
 {
     public class OpenXmlHelper
     {
-        private string baseDatasetsRelativePath;
-        //public string templatePath;
-        //public string outputPath;
-        //public string imagePath;
+        private readonly string baseDatasetsRelativePath;
 
         //default constructer
         public OpenXmlHelper(string inputBasePath)
