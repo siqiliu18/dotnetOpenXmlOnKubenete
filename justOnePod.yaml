@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ppt-merge-service
+spec:
+  containers:
+  - name: ppt-merge-service
+    image: ppt-merge-service:1.0
+    ports:
+     - containerPort: 6379
