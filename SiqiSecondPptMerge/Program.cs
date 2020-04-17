@@ -13,11 +13,9 @@ namespace SiqiSecondPptMerge
     {
         public static void Main(string[] args)
         {
-            string currPath = Directory.GetCurrentDirectory();
-            Console.WriteLine("The current directory is {0}", currPath);
 
-            //string dataPath = @"../../../Data";
-            string dataPath = currPath + "/Data";
+            string dataPath = @"../../../Data";
+            
             OpenXmlHelper openXmlProcessor = new OpenXmlHelper(dataPath);
 
             string TemplatePath = openXmlProcessor.GetAbsolutePath("/template.pptx");
@@ -82,9 +80,7 @@ namespace SiqiSecondPptMerge
             }
 
             // set watcher to watch output ppt changes
-            //string currPath = Directory.GetCurrentDirectory();
-            Console.WriteLine("The current directory is {0}", currPath);
-            Watcher watcher = new Watcher(dataPath);
+            Watcher watcher = new Watcher(OutputPath);
             watcher.Run();
         }
     }

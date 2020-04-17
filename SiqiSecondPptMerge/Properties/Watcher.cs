@@ -26,7 +26,7 @@ namespace SiqiSecondPptMerge.Properties
             // Create a new FileSystemWatcher and set its properties.
             using (FileSystemWatcher watcher = new FileSystemWatcher())
             {
-                watcher.Path = file;
+                watcher.Path = Path.GetDirectoryName(file);
                 
                 // Watch for changes in LastAccess and LastWrite times, and
                 // the renaming of files or directories.
@@ -36,8 +36,8 @@ namespace SiqiSecondPptMerge.Properties
                                      | NotifyFilters.DirectoryName;
 
                 // Only watch text files.
-                watcher.Filter = "*.pptx";
-
+                watcher.Filter = Path.GetFileName(file);
+                
                 // Add event handlers.
                 watcher.Changed += OnChanged;
                 watcher.Created += OnChanged;
