@@ -1,11 +1,11 @@
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.exe.config
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.exe
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.pdb
-/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.csprojAssemblyReference.cache
-/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.csproj.CoreCompileInputs.cache
-/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.exe
-/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.pdb
-/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.exe.config
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/DocumentFormat.OpenXml.dll
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/bin/Debug/DocumentFormat.OpenXml.xml
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.exe.config
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.csproj.CoreCompileInputs.cache
 /Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.csproj.CopyComplete
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.exe
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.pdb
+/Users/siqiliu/Projects/SiqiSecondPptMerge/SiqiSecondPptMerge/obj/Debug/SiqiSecondPptMerge.csprojAssemblyReference.cache
