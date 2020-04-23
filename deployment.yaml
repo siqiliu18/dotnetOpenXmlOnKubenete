@@ -1,10 +1,33 @@
 apiVersion: v1
-kind: Pod
+kind: Service
 metadata:
   name: ppt-merge-service
 spec:
-  containers:
-  - name: ppt-merge-service
-    image: ppt-merge-service:1.0
-    ports:
-     - containerPort: 6379
+  ports:
+  - port: 80
+    targetPort: 8080
+  selector:
+    app: ppt-merge
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: ppt-merge
+  name: ppt-merge-deployment
+spec:
+  selector:
+    matchLabels:
+      app: ppt-merge
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: ppt-merge
+    spec:
+      containers:
+      - name: ppt-merge
+        image: ppt-merge-service:1.0
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080
