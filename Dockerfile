@@ -16,4 +16,6 @@ RUN msbuild SiqiSecondPptMerge.sln /p:Configuration=Release
 
 #RUN mono SiqiSecondPptMerge/bin/Debug/SiqiSecondPptMerge.exe
 
+EXPOSE 8081
+
 CMD [ "sh", "-c", "mono SiqiSecondPptMerge/bin/Release/SiqiSecondPptMerge.exe && ls -lrt /src/Data" ]
